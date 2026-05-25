@@ -1,0 +1,6 @@
+*.csv
+巨量資料概論/outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
