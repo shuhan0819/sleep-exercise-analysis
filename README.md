@@ -1,5 +1,10 @@
-# sleep-exercise-analysis
-## 運動特徵對深度睡眠的影響分析
+# 運動特徵對深度睡眠的影響分析
+### Exercise Pattern Analysis on Deep Sleep Quality
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange)
+![Garmin](https://img.shields.io/badge/Data-Garmin%20API-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ---
 
